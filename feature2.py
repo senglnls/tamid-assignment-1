@@ -1,5 +1,5 @@
 def feature2(strin):
-    strin + '!'
-
+    return strin + '!'
+    
 
 
